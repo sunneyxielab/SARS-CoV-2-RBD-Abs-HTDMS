@@ -1,13 +1,11 @@
 #!/bin/bash
 
-IN=../01-cleandata
-OUT=../02-processed
-reference=../../../reference
+IN=./datasets/fastq
+OUT=./datasets/processed
+table=./reference/codon_variant_table_clean.csv
+wt=./reference/wildtype_sequence.fasta
 
-table=$reference/JDBloom_libs/codon_variant_table_clean.csv
-wt=$reference/wildtype_sequence.fasta
-
-scripts=../../../scripts
+scripts=./scripts
 tmp=./tmp
 
 mkdir -p $tmp
