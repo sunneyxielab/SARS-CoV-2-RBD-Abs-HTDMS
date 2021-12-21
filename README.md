@@ -6,5 +6,3 @@ This repository contains code for processing deep mutational scanning data (it i
 Processed mutation escape score data can also be found here.
 
 Thanks to [the Bloom lab](https://research.fhcrc.org/bloom/en.html) for their fantastic deep mutational scanning technology and data processing pipeline. Refer to [Sunney Xie lab](https://sunneyxielab.org) for more information.
-
-*2021/12/17: We are still cleaning our code. Some data and code have not been uploaded.*
