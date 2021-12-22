@@ -1,7 +1,7 @@
 # SARS-CoV-2-RBD-Abs-HTDMS
 High-throughput deep mutational scanning processing procedure
 
-This repository contains code for processing deep mutational scanning data (it is a modified version of [J. Bloom's pipeline](https://github.com/jbloomlab/SARS-CoV-2-RBD_DMS)), and code for reproducing figures and analysis in [our paper](https://biorxiv.org/cgi/content/short/2021.12.07.470392v1).
+This repository contains code for processing deep mutational scanning data (it is a modified version of [J. Bloom's pipeline](https://github.com/jbloomlab/SARS-CoV-2-RBD_DMS)), and code for reproducing figures and analysis in [our paper](https://biorxiv.org/cgi/content/short/2021.12.07.470392).
 
 If you want to begin with raw sequencing data, please download our raw data from [our SRA BioProject](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA787091) or prepare your sequencing data in the same .fastq.gz format.
 
